@@ -20,8 +20,8 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
+- 학력: 건국대학교 글로컬캠퍼스 소프트웨어학과
+- 경력: 엘리스코딩 부트캠프 4기 수료
 - Currently learning Web Development by Self
 - Personal website [link](https://www.0xabdulkhalid.ml)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
@@ -152,10 +152,3 @@
 <br>
 <br>
 
----
-
-<br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022

@@ -51,10 +51,12 @@
 
 <br>
 
-- **Cloud Hosting**:
+- **Back-End Development**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
+   ![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+   ![Express](https://img.shields.io/badge/Express%20-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+   ![MongoDB](https://img.shields.io/badge/MongoDB%20-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 <br>
 
 - **Softwares and Tools**:

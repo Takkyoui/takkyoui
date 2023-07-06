@@ -22,9 +22,8 @@
 
 - 학력: 건국대학교 글로컬캠퍼스 소프트웨어학과
 - 경력: 엘리스코딩 부트캠프 4기 수료
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- 간단소개: 안녕하세요~! 저는 현재 소프트웨어학과 3학년으로 재학중이며, MongoDB /Express JS  /React /Node.js 을 사용하여 풀스택 개발을 하고 있습니다!
+
 
 <br><br>
 
